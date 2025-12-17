@@ -1,0 +1,11 @@
+{
+  "commonPoints": 1000,
+  "rewards": [
+    { "name": "Pizza for everyone", "points": 500 },
+    { "name": "Rainwater collector", "points": 700 },
+    { "name": "Wheelbarrow", "points": 600 },
+    { "name": "Bench", "points": 1000 },
+    { "name": "Barbecue party", "points": 800 },
+    { "name": "Outdoor trash bin", "points": 900 }
+  ]
+}

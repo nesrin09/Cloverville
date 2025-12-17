@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Window cleaning",
+      "description": "I offer to clean windows in exchange for math homework help.",
+      "name": "Kasper Knop Rasmussen"
+    },
+    {
+      "title": "Patch trousers",
+      "description": "I need help sewing a hole in my favorite pair of pants. I am offering 50 points in return.",
+      "name": "Steffen Vissing Andersen"
+    },
+    {
+      "title": "Guided meditation",
+      "description": "I offer a guided meditation session that can help you find peace of mind and relax for 90 points.",
+      "name": "Mona Wendel Andersen"
+    },
+    {
+      "title": "Babysitting needed",
+      "description": "Looking for a babysitter this Saturday from 11:00 AM to 11:00 PM. Points offered: 150.",
+      "name": "Richard Brooks"
+    },
+    {
+      "title": "Help with gardening",
+      "description": "I need help gardening due to a back injury. I offer two cinema tickets in return.",
+      "name": "Marketa Tranberg"
+    },
+    {
+      "title": "Fruits and eggs",
+      "description": "Fresh organic tomatoes from my garden for 50 points.",
+      "name": "Albert Hansen"
+    }
+  ]
+}

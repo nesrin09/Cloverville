@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Cycling",
+      "description": "One resident cycles to work instead of taking the car and plans to continue.",
+      "points": 50
+    },
+    {
+      "title": "Eating vegan",
+      "description": "A family has experimented with eating more plant-based food and plans to continue.",
+      "points": 50
+    },
+    {
+      "title": "Waste collection",
+      "description": "Two young boys collected trash around Cloverville to clean the village.",
+      "points": 70
+    },
+    {
+      "title": "Recycled clothes",
+      "description": "A family recycles old clothes and buys recycled clothing.",
+      "points": 80
+    },
+    {
+      "title": "Collect rainwater",
+      "description": "A family collects rainwater to irrigate their crops.",
+      "points": 80
+    },
+    {
+      "title": "Energy-efficient lighting",
+      "description": "A couple replaced all lamps with energy-efficient lighting.",
+      "points": 70
+    }
+  ]
+}
